@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bassam4444.twa",
+        "sha256_cert_fingerprints": ["E0:80:6E:56:6D:1E:1E:2F:5B:15:13:47:19:41:35:91:A2:B3:5B:AB:4B:95:F3:11:93:F3:02:99:74:67:39:92"]
+      }
+    }]
